@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "firstmod:cobalt_ore"
+  },
+  "result": "firstmod:cobalt",
+  "experience": 1.0,
+  "cookingtime": 200
+}

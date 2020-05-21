@@ -1,0 +1,20 @@
+{
+ "item.firstmod.cobalt": "Cobalt Bar",
+ "item.firstmod.wool_denim": "Wool Denim",
+ "item.firstmod.cotton": "Cotton",
+ 
+ "item.firstmod.cobalt_sword": "Cobalt Sword",
+ "item.firstmod.cobalt_pickaxe": "Cobalt Pickaxe",
+ 
+ "item.firstmod.jeans": "Jeans",
+ "item.firstmod.cobalt_helmet": "Cobalt Helmet",
+ "item.firstmod.cobalt_chestplate": "Cobalt Chestplate",
+ "item.firstmod.cobalt_leggings": "Cobalt Leggings",
+ "item.firstmod.cobalt_boots": "Cobalt Boots",
+ 
+ "item.firstmod.palladium_sword": "Palladium Sword",
+ 
+ "block.firstmod.cobalt_ore": "Cobalt Ore",
+ "block.firstmod.cotton_crop": "Cotton Seeds",
+ "block.firstmod.loom": "Loom"
+}
